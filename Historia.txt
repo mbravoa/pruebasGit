@@ -5,3 +5,7 @@ Mario Suarez tiene 23 años y nació en Colombia
 Mañana estudiaremos 4 horas por favor
 
 probando cambios
+
+-----------------
+
+Esta vez vamos a probar creando una nueva rama y validando como se hace
