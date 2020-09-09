@@ -9,3 +9,7 @@ probando cambios
 -----------------
 
 Esta vez vamos a probar creando una nueva rama y validando como se hace
+
+Para esta nueva linea, lo que se busca es probar el comando merge en git, para unir las ramas secundarias al master
+
+PROBANDO COLOCAR MAS PALABRAS
